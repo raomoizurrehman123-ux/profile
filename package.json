@@ -1,0 +1,17 @@
+{
+  "name": "moiz-portfolio",
+  "version": "1.0.0",
+  "description": "A responsive developer portfolio built with HTML5, CSS3, and vanilla JavaScript.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.3.6"
+  }
+}
